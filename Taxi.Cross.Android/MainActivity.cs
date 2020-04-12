@@ -1,8 +1,9 @@
 ﻿using Android.App;
-using Android.Content.PM;
 using Android.OS;
-using Android.Runtime;
 using Android.Support.V7.App;
+using Android.Runtime;
+using Android.Widget;
+using Android.Content.PM;
 
 namespace Taxi.Cross.Android
 {
